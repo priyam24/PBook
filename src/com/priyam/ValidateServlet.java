@@ -24,7 +24,7 @@ import javax.mail.internet.*;
 @WebServlet("/ValidateServlet")
 public class ValidateServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-	private static String usermail="priyamroy137@gmail.com";
+	private static String usermail="#####";
 	private static String pass="#####;
     /**
      * @see HttpServlet#HttpServlet()
